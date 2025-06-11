@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shops>
+  <shop>
+    <name>shop a</name>
+    <adress>tel aviv</adress>
+    <seller>yossi cohen</seller>
+    <items>
+      <item>
+        <name>camera</name>
+        <price>100</price>
+        <category>electronic</category>
+      </item>
+      <item>
+        <name>skirt</name>
+        <price>50</price>
+        <category>clothes</category>
+      </item>
+      <item>
+        <name>new item</name>
+        <price>150</price>
+        <category>accessories</category>
+      </item>
+      <item>
+        <name>new item</name>
+        <price>150</price>
+        <category>accessories</category>
+      </item>
+    </items>
+  </shop>
+  <shop>
+    <name>shop b</name>
+    <adress>tel aviv</adress>
+    <seller>ronit levy</seller>
+    <items>
+      <item>
+        <name>chair</name>
+        <price>200</price>
+        <category>furniture</category>
+      </item>
+    </items>
+  </shop>
+</shops>

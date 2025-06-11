@@ -1,0 +1,14 @@
+H:\c#\שיעור7\lesson_7\lesson_7\bin\Debug\net8.0\lesson_7.exe
+H:\c#\שיעור7\lesson_7\lesson_7\bin\Debug\net8.0\lesson_7.deps.json
+H:\c#\שיעור7\lesson_7\lesson_7\bin\Debug\net8.0\lesson_7.runtimeconfig.json
+H:\c#\שיעור7\lesson_7\lesson_7\bin\Debug\net8.0\lesson_7.dll
+H:\c#\שיעור7\lesson_7\lesson_7\bin\Debug\net8.0\lesson_7.pdb
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\lesson_7.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\lesson_7.AssemblyInfoInputs.cache
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\lesson_7.AssemblyInfo.cs
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\lesson_7.csproj.CoreCompileInputs.cache
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\lesson_7.dll
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\refint\lesson_7.dll
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\lesson_7.pdb
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\lesson_7.genruntimeconfig.cache
+H:\c#\שיעור7\lesson_7\lesson_7\obj\Debug\net8.0\ref\lesson_7.dll
